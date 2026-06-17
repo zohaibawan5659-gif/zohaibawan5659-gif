@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I am a passionate automation engineer and software
 ### 📊 GitHub Stats
 *(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to make these dynamic stat cards work!)*
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibawan5659-gif&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibawan5659-gif&layout=compact&theme=radical)
 
 ---
 
