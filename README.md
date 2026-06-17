@@ -1,24 +1,38 @@
 <div align="center">
-  <h1>Hi there, I'm Zohaib Rashid! 👋</h1>
-  <h3>🚀 Power Automate & AI Automation Engineer</h3>
+  <h1>⚡ Zohaib Rashid</h1>
+  <h2>Power Automate & AI Automation Engineer</h2>
+  
+  <p>📍 Based in Pakistan with 1+ year of crafting streamlined business workflows, scalable automations, and intelligent AI solutions.</p>
+
+  <a href="mailto:zohaibforai@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ZOHAIBFORAI@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/zohaibawan5659-gif">
+    <img src="https://img.shields.io/badge/GITHUB-ZOHAIBAWAN5659--GIF-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+Welcome to my GitHub profile! I am a passionate automation engineer and software developer currently working at **Hashturn**. I balance my full-time professional work with my university studies, maintaining a strong academic record while constantly expanding my technical skill set. My approach combines technical excellence with a keen eye for efficiency, ensuring every automation is not only functional but highly impactful.
 
-Welcome to my GitHub profile! I am a passionate automation engineer and software developer currently working at **Hashturn**. I specialize in streamlining business workflows, building custom automation systems, and deploying web solutions. I balance my full-time professional work with my university studies, maintaining a strong 3.10 CGPA while constantly expanding my technical skill set.
+<br>
 
-* 💼 **Current Role:** Power Automate Cloud & Desktop (PAD) Engineer and AI Automation Engineer at Hashturn.
-* 🎓 **Academic Status:** University student balancing academic coursework with professional software development.
-* 💡 **Core Focus:** End-to-end business workflow automation, custom bots, and technical freelance services.
+<div align="center">
+
+| 🥇 Experience | 🚀 Projects | 💻 Core Expertise |
+| :---: | :---: | :---: |
+| **1+ Year** | **20+ Completed** | **RPA, Python, Web Deployment** |
+
+</div>
+
+<br>
 
 ---
 
 ## ⏳ Professional Experience
 
 ### **AI & Automation Engineer** | *Hashturn*  
-**Duration:** 1+ Years Experience  
 *   Architect and deploy automated workflows using Power Automate (Cloud & Desktop) to optimize business efficiency.
 *   Integrate AI capabilities into daily operations and web applications to reduce manual processing times.
 *   Develop custom internal tools and scripts using Python, Tkinter, and various web technologies.
@@ -61,9 +75,3 @@ I have successfully completed over **20+ projects** during my tenure at Hashturn
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-
-## 📫 Let's Connect
-
-Whether you want to discuss workflow automation, collaborative software engineering, or just explore my repositories, feel free to dive right in! I am always open to exchanging ideas and working on innovative projects.
