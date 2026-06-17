@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I am a passionate automation engineer and software
 
 I have successfully completed over **20+ projects** during my tenure at Hashturn. Here are a few key areas of my work:
 
+*   **Global Sales & Revenue Dashboard (Power BI):** Engineered an interactive analytics dashboard to visualize key performance indicators (KPIs) like revenue, profit margins, and regional sales performance across distinct customer segments, featuring dynamic quarterly slicers and geospatial mapping.
 *   **Enterprise Workflow Automations:** Designed and managed high-impact robotic process automations (RPA) that sync legacy desktop systems with cloud applications.
 *   **Custom AI Chatbot Interfaces:** Built and configured interactive, web-based informational chatbots featuring specific logical rule sets.
 *   **Portfolio CV Platform:** Developed a clean, responsive personal portfolio website deployed via continuous Git integration to showcase live project milestones.
